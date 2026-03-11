@@ -30,4 +30,4 @@ These files remain on your device unless you delete the app.
 
 ## Contact
 If you have questions about this policy, contact:
-- danlazarescou@mac.com
+- Spargris950@gmail.com
