@@ -24,7 +24,7 @@ SpaceNerd may access the network to fetch:
 - planet ephemeris data from NASA/JPL Horizons
 - astronomical object lookup data from the SIMBAD Astronomical Database, operated and maintained by CDS (Centre de Données astronomiques de Strasbourg)
 
-Horizons requests contain only the parameters required to obtain planet positions, such as time/epoch. SIMBAD requests contain the searched object name. No user account data is sent.
+Horizons requests contain only the parameters required to obtain planet positions, such as time/epoch. SIMBAD requests contain the searched object name. No user account data is sent. The app may also open Wikipedia pages in the browser when the user taps an “Open Wikipedia” button.
 
 ## Files stored on your device
 SpaceNerd may save:
