@@ -1,6 +1,6 @@
 # SpaceNerd Privacy Policy
 
-**Last updated:** 2026-03-04
+**Last updated:** 2026-06-11
 
 SpaceNerd is a sensor-based sky pointing app that helps identify stars and planets.
 
@@ -19,7 +19,12 @@ SpaceNerd may request the following permissions:
 These sensor values are used on-device for app functionality.
 
 ## Network access
-SpaceNerd may access the network to fetch planet ephemeris data from NASA/JPL Horizons. Requests contain only the parameters required to obtain planet positions (e.g., time/epoch). No user account data is sent.
+SpaceNerd may access the network to fetch:
+
+- planet ephemeris data from NASA/JPL Horizons
+- astronomical object lookup data from the SIMBAD Astronomical Database, operated and maintained by CDS (Centre de Données astronomiques de Strasbourg)
+
+Horizons requests contain only the parameters required to obtain planet positions, such as time/epoch. SIMBAD requests contain the searched object name. No user account data is sent.
 
 ## Files stored on your device
 SpaceNerd may save:
